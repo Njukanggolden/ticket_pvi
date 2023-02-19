@@ -1,0 +1,293 @@
+.bt2{
+    margin-left:10px;
+    border-radius:22px;
+    width: 90px;
+}
+.bt1{
+    border-radius:22px;
+    width:90px;
+}
+.a3{
+    margin-left:40px;
+}
+.a2{
+    margin-left:50px;
+}
+.a1{
+    margin-left:200px;
+    opacity:none;
+}
+
+.image1{
+    height:500px;
+    width:100%;
+    position: relative;
+    margin-top: -40px;
+}
+.nav{
+    margin-top:15px;
+    margin-bottom:15px;
+    background-color: #ffffff;
+    padding-bottom:30px;
+}
+.gol{
+    background-color: #f5f7fa;
+    margin-top:-30px;
+    padding-top: 30px;
+    padding-bottom:30px;
+}
+.goll{
+    background-color: #f5f7fa;
+    padding-bottom:50px;
+}
+
+.p1{
+    margin-left:60px;
+    position: absolute;
+    top:160px;
+    color: white;
+}
+.p2{
+    top:220px;
+    position: absolute;
+    color:white;
+    margin-left: 900px;
+}
+.form{
+    width:300px;
+    position: absolute;
+    top:310px;
+    margin-left:40px;
+    border-radius:25px;
+    padding-top:13px;
+    padding-bottom:13px;
+}
+.p3{
+    position: absolute;
+    top: 370px;
+    margin-left:60px;
+    color:white;
+}
+.p5{
+    position: absolute;
+    top: 370px;
+    margin-left:190px;
+    color:white;
+}
+.p5:hover{
+    text-decoration: underline;
+}
+.bt3{
+    border-radius:25px;
+    margin-left:80px;
+    background-color:white;
+}
+.bt3:hover{
+    text-decoration: none;
+}
+.p4{
+    opacity:.8;
+}
+.p6{
+    opacity:.8;
+    margin-left:-100px;
+    
+}
+.image2{
+margin:100px;
+margin-top:-40px;
+}
+.form2{
+    width:300px;
+    border-radius:25px;
+    border-color:primary;
+}
+.p7{
+    margin-left:90px;
+    margin-top:-60px;
+    font-size:21px;
+    opacity:.6;
+}
+.p8{
+    margin-left:50px;
+    margin-top:-60px;
+    font-size:21px;
+    opacity:.6;
+}
+.p9{
+    margin-left:50px;
+    font-size: 15px;
+}
+.p10{
+    font-size: 15px;
+}
+.p11{
+    margin-top: -10px;
+    padding-top:40px;
+    padding-bottom:90px;
+    margin-bottom:30px;
+}
+
+.ca{
+    margin-left:60px;
+}
+.ii2{
+    
+}
+.form3{
+    margin-left:500px;
+    border-radius:25px;
+    margin-top:30px;
+    width:300px;
+    padding-top:12px;
+    padding-bottom:12px;
+}
+.div1{
+    background-color:#0153a3;
+    margin-top:px;
+}
+.w1{
+    background-color:;
+}
+.p13{
+    padding-top:0px;
+    color:white;
+    margin-left:-20px;
+    margin-top:50px;
+}
+.p14{
+    margin-left:-10px;
+    color:white;
+}
+.p15{
+
+}
+.p16{
+    margin-left:10px;
+}
+.link{
+    color:white;
+    
+}
+.golll{
+    margin-left:px;
+    border-radius:25px;
+    width:330px;
+    padding-top:10px;
+    padding-bottom:10px;
+    
+}
+.gol1{
+    opacity:.8;
+    margin-bottom:30px;
+    padding-top:30px;
+}
+.gol2{
+    background-color:#f5f7fa;
+}
+.b8{
+    width:2%;
+    margin-left:690px;
+    opacity:.6;
+}
+.b1{
+    color: black;
+    text-decoration: none;
+}
+.b2,.b3,.b4,.b5,.b6,.b7{
+    margin-left:20px;
+    text-decoration: none;
+    color: black;  
+}
+.b1:hover{
+    text-decoration: underline;
+}
+.b2:hover{
+    text-decoration: underline;
+}
+.b3:hover{
+    text-decoration: underline;
+}
+.b4:hover{
+    text-decoration: underline;
+}
+.b5:hover{
+    text-decoration: underline;
+}
+.b6:hover{
+    text-decoration: underline;
+}
+.b7:hover{
+    text-decoration: underline;
+}
+.b8:hover{
+    text-decoration: underline;
+}
+.c1{
+    opacity:.7;
+    color: black;
+    text-decoration: none;
+}
+.c2,.c3,.c4{
+    color: black;
+    text-decoration: none;
+    margin-left:30px;
+    opacity:.7;
+}
+.c8{
+    margin-left:20px;
+    color: black;
+    text-decoration: none;
+    opacity:.7;
+}
+.c7{
+    margin-left:15px;
+    color: black;
+    text-decoration: none;
+    opacity:.7;
+}
+.c6{
+    margin-left: 20px;
+    color: black;
+    text-decoration: none;
+    opacity:.7;
+}
+.c5{
+    margin-left: 605px;
+    color: black;
+    text-decoration: none;
+    opacity:.7;
+}
+.c0{
+    opacity:.5;
+}
+.c1:hover{
+    text-decoration: underline;
+}
+.c2:hover{
+    text-decoration: underline;
+}
+.c3:hover{
+    text-decoration: underline;
+}
+.c4:hover{
+    text-decoration: underline;
+}
+.c6:hover{
+    text-decoration: underline;
+}
+.c7:hover{
+    text-decoration: underline;
+}
+.c8:hover{
+    text-decoration: underline;
+}
+.li{
+    margin-left:30px;
+    text-decoration: none;
+    color: black;
+}
+.lii{
+    text-decoration: none;
+    color: black;
+}
